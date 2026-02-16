@@ -20,3 +20,4 @@
 (package! vdirel
   :recipe (:host github :repo "DamienCassou/vdirel" :files ("*.el"))
   :pin "d60439f0b2b55f2e220241fe73f7f79af80aaad8")
+(package! org-re-reveal)
