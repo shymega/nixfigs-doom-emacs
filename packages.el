@@ -1,7 +1,7 @@
 ;;; Copyright 2024 Google LLC
-;;; SPDX-FileCopyrightText: 2024 Dom Rodriguez <shymega@shymega.org.uk
+;;; SPDX-FileCopyrightText: 2023-2026 Dom 'shymega' Rodriguez <shymega@shymega.org.uk>
 ;;;
-;;; SPDX-License-Identifier: GPL-3.0-only
+;;; SPDX-License-Identifier: Apache-2.0
 
 ;; -*- no-byte-compile: t; -*-
 ;;; $DOOMDIR/packages.el
